@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtävä7", "Elaimet\Tehtävä7.csproj", "{88B55C9D-8EB8-4AC6-AC79-C8054BB28096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElainLuokat", "ElainLuokat\ElainLuokat.csproj", "{5C0B5D40-AB49-48EB-AAFF-FADEA57AD66E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ika", "Ika\Ika.csproj", "{D9E319F2-43E9-4CEA-8793-E8C2F1D1328A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88B55C9D-8EB8-4AC6-AC79-C8054BB28096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B55C9D-8EB8-4AC6-AC79-C8054BB28096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B55C9D-8EB8-4AC6-AC79-C8054BB28096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B55C9D-8EB8-4AC6-AC79-C8054BB28096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C0B5D40-AB49-48EB-AAFF-FADEA57AD66E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0B5D40-AB49-48EB-AAFF-FADEA57AD66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0B5D40-AB49-48EB-AAFF-FADEA57AD66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0B5D40-AB49-48EB-AAFF-FADEA57AD66E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9E319F2-43E9-4CEA-8793-E8C2F1D1328A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E319F2-43E9-4CEA-8793-E8C2F1D1328A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E319F2-43E9-4CEA-8793-E8C2F1D1328A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E319F2-43E9-4CEA-8793-E8C2F1D1328A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F02BA5C9-2DA6-4410-8263-EF6CEA8584ED}
+	EndGlobalSection
+EndGlobal
